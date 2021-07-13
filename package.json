@@ -1,7 +1,7 @@
 {
   "name": "aws-node-typescript-rest-api-with-dynamodb",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "A Restful API built on typescript with dynamoDB",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,16 @@
     "lint": "tslint '*.ts'"
   },
   "keywords": [],
-  "author": "",
+  "author": "Md Rijwan Razzaq Matin",
   "license": "ISC",
   "devDependencies": {
     "@types/aws-sdk": "0.0.42",
     "@types/node": "^7.0.5",
-    "tslint": "^5.5.0",
+    "serverless-offline": "^7.0.0",
+    "serverless-dynamodb-local": "^0.2.40",
+    "serverless-plugin-typescript": "^1.1.9",
     "tslint-config-standard": "^6.0.1",
-    "typescript": "^2.4.2"
+    "typescript": "^2.9.2"
   },
   "dependencies": {
     "uuid": "^3.1.0"
