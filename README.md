@@ -1,9 +1,12 @@
+# Description
+
 This example shows your how to create a TypeScript powered REST API with DynamoDB.
-framework: v1
-platform: AWS
-language: nodeJS
-authorLink: 'https://github.com/mdrijwan'
-authorName: Md Rijwan Razzaq Matin
+
+- platform: AWS
+- language: nodeJS
+- dbSolution: dynamoDB
+- authorName: Md Rijwan Razzaq Matin
+- authorLink: 'https://github.com/mdrijwan'
 
 # Introduction
 
