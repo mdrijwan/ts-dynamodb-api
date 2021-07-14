@@ -1,4 +1,4 @@
-# Description
+# Description of README.MD
 
 This example shows your how to create a TypeScript powered REST API with DynamoDB...
 
