@@ -1,6 +1,6 @@
 # Description
 
-This example shows your how to create a TypeScript powered REST API with DynamoDB.
+This example shows your how to create a TypeScript powered REST API with DynamoDB...
 
 - platform: AWS
 - language: nodeJS
